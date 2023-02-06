@@ -1,2 +1,10 @@
 Write-Host "Task1"
+<<<<<<< HEAD
+<<<<<<< HEAD
 Write-Host "Task2"
+=======
+Write-Host "Task3"
+>>>>>>> ea9650a (task3 commit)
+=======
+Write-Host "Task3"
+>>>>>>> ea9650a0a036f2de5dcc24bc692790b1e1c39ae5
