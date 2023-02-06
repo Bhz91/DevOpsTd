@@ -9,4 +9,14 @@ Write-Host "Task3"
 Write-Host "Task3"
 >>>>>>> ea9650a0a036f2de5dcc24bc692790b1e1c39ae5
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 Write-Host "Task4"
+=======
+
+Write-Host "Task5"
+>>>>>>> 9cd21aa (Task5 created)
+=======
+
+Write-Host "Task5"
+>>>>>>> 9cd21aa86a1da64d15910471bd364c29a69e477f
